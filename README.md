@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre Justen Filho</h1>
 <h3 align="center">🎓programming student🎓</h3
 
+- 🏠 studying ADS in IFSC
 - 🔭 I’m currently working on **C projects**
 
 
