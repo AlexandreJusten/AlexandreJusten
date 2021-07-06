@@ -4,6 +4,8 @@
 - 🏠 studying ADS in IFSC
 - 🔭 I’m currently working on **C projects**
 
+<img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47lp95eydbwlsjj5ya3zdkhgplp51ob31b8x75y30c&rid=giphy.gif&ct=g" width="30px" data-canonical-src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47lp95eydbwlsjj5ya3zdkhgplp51ob31b8x75y30c&rid=giphy.gif&ct=g" style="max-width:100%;">
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
