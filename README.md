@@ -31,8 +31,8 @@
 <a href="https://github.com/AlexandreJusten">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejusten&theme=tokyonight&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=tokyonight&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/AlexandreJusten">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true&theme=tokyonight&line_height=27" alt="**Alexandre Justen** github stats"/>
 </a>
 
 
