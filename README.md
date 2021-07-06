@@ -1,10 +1,16 @@
 ## 👋 Olá, meu nome é <strong>Alexandre Justen Filho!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> breve aprensentação!
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Estudando ADS no IFSC
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+🐱‍👤 19 anos
+
+💬 Petrópolis/RJ
+
+  ![Instagram](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)](https://www.instagram.com/alexandre.justen/)
+  ![Twitter](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Facebook](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ----
 
