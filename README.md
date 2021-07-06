@@ -26,4 +26,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palexandrejusten&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true)
