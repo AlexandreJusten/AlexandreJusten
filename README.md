@@ -8,7 +8,7 @@
 
 💬 Petrópolis/RJ
 
-  <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
+  <a href="https://www.facebook.com/alexandre.j.filho"target="_blank" alt="Facebook"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
 
 
 ----
