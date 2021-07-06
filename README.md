@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é <strong>Alexandre Justen Filho!</strong>
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" blend-mode="screen" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" blend-mode="lighten" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 > Breve aprensentação!
 
