@@ -31,6 +31,6 @@
 <a href="https://github.com/AlexandreJusten">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejusten&theme=tokyonight&hide_langs_below=1" />
 </a>
-[![iuricode](https://github-readme-stats.vercel.app/api?username=alexandrejusten&theme=tokyonight)](https://github.com/alexandrejusten/)
+
 
 
