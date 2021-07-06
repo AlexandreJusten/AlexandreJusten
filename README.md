@@ -8,9 +8,8 @@
 
 💬 Petrópolis/RJ
 
-  ![Instagram](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)](https://www.instagram.com/alexandre.justen/)
-  ![Twitter](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Facebook](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
+
 
 ----
 
