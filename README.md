@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexandre Justen Filho</h1>
-<h2 align="center">🎓programming student🎓</h2>
+<h3>Hi 👋, I'm Alexandre Justen Filho</h3>
+<h4>🎓programming student🎓</h4>
 
 - 🏠 studying ADS in IFSC
 - 🔭 I’m currently working on **C projects**
