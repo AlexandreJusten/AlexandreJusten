@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é <strong>Alexandre Justen Filho!</strong>
-<img src="https://assets.prestashop2.com/sites/default/files/ebd62-developerpartnershipheader2_5.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://bhupesh-v.github.io/images/blog7.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 > Breve aprensentação!
 
