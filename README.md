@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook" ><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
   <a href="https://twitter.com/AlexandrejF_" alt="Twitter" ><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=alexandrejustenfilho%22"/></a>
   <a href="https://www.instagram.com/alexandre.justen" alt="Instagram" ><img src="https://img.shields.io/badge/-Instagram-fc0fc0?style=flat-square&labelColor=fc0fc0&logo=instagram&logoColor=white&link=alexandrejustenfilho%22"/></a>
-  <a href="https://www.alexandrejusten.ddns.net" alt="Instagram" ><img src=https://img.shields.io/badge/-WebSite-2F4F4F?style=flat-square&labelColor=696969&logo=icon&logoColor=white&link=alexandrejustenfilho%22"/></a>
+  <a href="https://www.alexandrejusten.ddns.net" alt="Instagram" ><img src="https://img.shields.io/badge/-WebSite-2F4F4F?style=flat-square&labelColor=696969&logo=icon&logoColor=white&link=alexandrejustenfilho%22"/></a>
 
 ----
 
