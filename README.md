@@ -7,7 +7,7 @@
 
 🐱‍👤 20 anos
 
-💬 Petrópolis/RJ
+💬 Canoinhas/SC--Petrópolis/RJ
 
   <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook" ><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
   <a href="https://twitter.com/AlexandrejF_" alt="Twitter" ><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=alexandrejustenfilho%22"/></a>
