@@ -22,8 +22,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://andifalk.github.io/spring-basics-training/presentation/images/spring-logo.png" alt="Spring"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://www.pngrepo.com/png/353396/512/angular-icon.png" alt="Angular"/></code>
+<code><img height="32" src="https://certificacaobd.com.br/wp-content/uploads/2012/06/certbd1.png" alt="SGBD"/></code>
 
 
 
