@@ -9,9 +9,10 @@
 
 💬 Canoinhas/SC--Petrópolis/RJ
 
-  <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook" ><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
-  <a href="https://twitter.com/AlexandrejF_" alt="Twitter" ><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=alexandrejustenfilho%22"/></a>
-  <a href="https://www.instagram.com/alexandre.justen" alt="Instagram" ><img src="https://img.shields.io/badge/-Instagram-fc0fc0?style=flat-square&labelColor=fc0fc0&logo=instagram&logoColor=white&link=alexandrejustenfilho%22"/></a>
+  <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook"  target=”_blank”><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
+  <a href="https://twitter.com/AlexandrejF_" alt="Twitter" target=”_blank” ><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=alexandrejustenfilho%22"/></a>
+  <a href="https://www.instagram.com/alexandre.justen" alt="Instagram"  target=”_blank”><img src="https://img.shields.io/badge/-Instagram-fc0fc0?style=flat-square&labelColor=fc0fc0&logo=instagram&logoColor=white&link=alexandrejustenfilho%22"/></a>
+  <a href="https://www.linkedin.com/in/alexandre-justen-filho" alt="Linkedin"  target=”_blank”><img src="https://img.shields.io/badge/-Linkedin-005eff?style=flat-square&labelColor=005eff&logo=linkedin&logoColor=white&link=alexandrejustenfilho%22"/></a>
 
 ----
 
