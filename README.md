@@ -21,10 +21,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://andifalk.github.io/spring-basics-training/presentation/images/spring-logo.png" alt="Spring"/></code>
-<code><img height="32" src="https://www.pngrepo.com/png/353396/512/angular-icon.png" alt="Angular"/></code>
-<code><img height="32" src="https://certificacaobd.com.br/wp-content/uploads/2012/06/certbd1.png" alt="SGBD"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" alt="Nextjs"/></code>
+<code><img height="32" src="https://d33wubrfki0l68.cloudfront.net/3043815abc12ed4628bceeabb1a571459a777f84/5f19e/static/f422e4992c3482dce03f913e7da91751/e17e5/gatsby-png.png" alt="GatsbyJs"/></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/1792/1792275.png" alt="CMS"/></code>
 
 
 
