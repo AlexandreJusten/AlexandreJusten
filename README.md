@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é <strong>Alexandre Justen Filho!</strong>
-<img src="https://res.cloudinary.com/sm-gcs/image/upload/v1613987515/Saad-Portfolio/hero-home_kjoy0j.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://64.media.tumblr.com/138e6f85071f12cce9e5e8448f833200/tumblr_nif4hqpQff1suni9po3_250.gifv" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 > Breve aprensentação!
 
