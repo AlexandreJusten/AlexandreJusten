@@ -4,6 +4,7 @@
 > Breve aprensentação!
 
 🔭 Estudando ADS no IFSC
+💻 Trabalhando em Instituto SENAI de Inovação em Sistemas Embarcados
 
 🐱‍👤 21 anos
 
