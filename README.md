@@ -20,14 +20,14 @@
 
 ## 📚 Skills!
 
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="HTML5"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Nextjs"/></code>
-<code><img height="32" src="https://d33wubrfki0l68.cloudfront.net/3043815abc12ed4628bceeabb1a571459a777f84/5f19e/static/f422e4992c3482dce03f913e7da91751/e17e5/gatsby-png.png" alt="GatsbyJs"/></code>
-<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Zq0hjJGBTc5dfDfOWg3piQ8XasAu_8Me3Q&usqp=CAU" alt="Graphql"/></code>
-<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/1792/1792275.png" alt="CMS"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Mysql"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" alt="WebPack"/></code>
 
 
 
