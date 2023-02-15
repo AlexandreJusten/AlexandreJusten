@@ -37,9 +37,9 @@
 ---
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-Meu nome é Alexandre Justen Filho e sempre fui apaixonado por tecnologia, atualmente estou estudando ADS no IFSC e pretendo dedicar esse tempo não só ao que a faculdade tem a me oferecer e sim poder aprender tudo que possível.
+Meu nome é Alexandre Justen Filho e sempre fui apaixonado por tecnologia, atualmente estou estudando ADS no IFSC e Trabalhando como Dev-BackEnd no ISI,além de participar de um projeto de pesquisa em anonimização de dados.
 
-Busco por estágios ou grupos de projetos que podem me oferecer mais experiências, estou aberto a todo tipo de proposta.
+Busco sempre por grupos de projetos que podem me oferecer mais experiências, estou aberto a todo tipo de proposta.
 Você pode entrar em contato comigo por qualquer rede social ou até mesmo mandar um e-mail para: alexandreifsc@outlook.com 
 
 
