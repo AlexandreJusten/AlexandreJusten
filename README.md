@@ -3,11 +3,11 @@
 
 > Breve aprensentação!
 
-🔭 Estudando ADS no IFSC
+🔭 Formado em Análise e Desenvolvimento de Sistemas
 
 💻 Trabalhando em Instituto SENAI de Inovação em Sistemas Embarcados
 
-🐱‍👤 21 anos
+🐱‍👤 22 anos
 
 💬 Canoinhas/SC--Petrópolis/RJ
 
@@ -37,7 +37,7 @@
 ---
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-Meu nome é Alexandre Justen Filho e sempre fui apaixonado por tecnologia, atualmente estou estudando ADS no IFSC e Trabalhando como Dev-BackEnd no ISI,além de participar de um projeto de pesquisa em anonimização de dados.
+Meu nome é Alexandre Justen Filho e sempre fui apaixonado por tecnologia, Sou formado em Análise e Desenvolvimento de Sistemas e Trabalho como Dev Full Stack e Mobile no ISI Sistemas Embarcados.
 
 Busco sempre por grupos de projetos que podem me oferecer mais experiências, estou aberto a todo tipo de proposta.
 Você pode entrar em contato comigo por qualquer rede social ou até mesmo mandar um e-mail para: alexandreifsc@outlook.com 
