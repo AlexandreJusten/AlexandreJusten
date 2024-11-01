@@ -29,7 +29,7 @@ diversas plataformas e contextos
 <img src="https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true&theme=dark&cache_seconds=2300" align="right">
 
 
-### ⚙️  Aplicações e Dados
+### 🔘 Aplicações e Dados
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot"/></code>
@@ -40,7 +40,7 @@ diversas plataformas e contextos
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/></code>
 
-### ⚙️  DevOps e Testing
+### 🔘 DevOps e Testing
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" alt="Jest"/></code>
