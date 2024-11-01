@@ -28,14 +28,22 @@ diversas plataformas e contextos
 
 <img src="https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true&theme=dark&cache_seconds=2300" align="right">
 
-**Skills**
 
+### ⚙️  Aplicações e Dados
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"/></code>
+
+### ⚙️  DevOps e Testing
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" alt="Jest"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"/></code>
 
 
