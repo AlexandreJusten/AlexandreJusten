@@ -26,16 +26,16 @@ diversas plataformas e contextos
   <a href="https://www.instagram.com/alexandre.justen" alt="Instagram"  target=”_blank”><img src="https://img.shields.io/badge/-Instagram-f8efd4?style=flat-square&labelColor=545554&logo=instagram&logoColor=white&link=alexandrejustenfilho%22"/></a>
   <a href="https://www.linkedin.com/in/alexandre-justen-filho" alt="Linkedin"  target=”_blank”><img src="https://img.shields.io/badge/-Linkedin-f8efd4?style=flat-square&labelColor=545554&logo=linkedin&logoColor=white&link=alexandrejustenfilho%22"/></a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true&theme=dark&cache_seconds=2300" align="right">
 
+**Skills**
+
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" alt="WebPack"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Mysql"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/></code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true&theme=dark&cache_seconds=2300">
