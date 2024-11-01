@@ -1,24 +1,31 @@
-## 👋 Olá, meu nome é <strong>Alexandre Justen Filho!</strong>
-<img src="https://media3.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif?cid=6c09b9528ekllss258ot0jsbul2j3ons9l8waa5p9e2auag1&rid=giphy.gif&ct=s" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://media3.giphy.com/media/wU5GXcDhwLDO7bcKvP/giphy.gif?cid=6c09b9528ekllss258ot0jsbul2j3ons9l8waa5p9e2auag1&rid=giphy.gif&ct=s" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-> Breve aprensentação!
+<img src="https://img.shields.io/static/v1?label=Overview&message=Alexandre Justen&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-🔭 Formado em Análise e Desenvolvimento de Sistemas
+<p>
 
-💻 Trabalhando em Instituto SENAI de Inovação em Sistemas Embarcados
+Trabalhando na **ISI Sistemas Embarcados**<br/>
 
-🐱‍👤 23 anos
+Eu sou desenvolvedor **FullStack**<br/>
 
-💬 Canoinhas/SC--Petrópolis/RJ
+Idade **23 anos**<br/>
 
-  <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook"  target=”_blank”><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
-  <a href="https://twitter.com/AlexandrejF_" alt="Twitter" target=”_blank” ><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=alexandrejustenfilho%22"/></a>
-  <a href="https://www.instagram.com/alexandre.justen" alt="Instagram"  target=”_blank”><img src="https://img.shields.io/badge/-Instagram-fc0fc0?style=flat-square&labelColor=fc0fc0&logo=instagram&logoColor=white&link=alexandrejustenfilho%22"/></a>
-  <a href="https://www.linkedin.com/in/alexandre-justen-filho" alt="Linkedin"  target=”_blank”><img src="https://img.shields.io/badge/-Linkedin-005eff?style=flat-square&labelColor=005eff&logo=linkedin&logoColor=white&link=alexandrejustenfilho%22"/></a>
+Cidade **Canoinhas/SC--Petrópolis/RJ**.
 
-----
 
-## 📚 Skills!
+Formado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações web,
+utilizando tecnologias como JavaScript e Java. Tenho experiência comprovada em desenvolvimento
+mobile e inteligência artificial, com capacidade para adaptar soluções tecnológicas de alto impacto para
+diversas plataformas e contextos 
+
+</p>
+
+
+  <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook"  target=”_blank”><img src="https://img.shields.io/badge/-Facebook-f8efd4?style=flat-square&labelColor=545554&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
+  <a href="https://twitter.com/AlexandrejF_" alt="Twitter" target=”_blank” ><img src="https://img.shields.io/badge/-Twitter-f8efd4?style=flat-square&labelColor=545554&logo=x&logoColor=white&link=alexandrejustenfilho%22"/></a>
+  <a href="https://www.instagram.com/alexandre.justen" alt="Instagram"  target=”_blank”><img src="https://img.shields.io/badge/-Instagram-f8efd4?style=flat-square&labelColor=545554&logo=instagram&logoColor=white&link=alexandrejustenfilho%22"/></a>
+  <a href="https://www.linkedin.com/in/alexandre-justen-filho" alt="Linkedin"  target=”_blank”><img src="https://img.shields.io/badge/-Linkedin-f8efd4?style=flat-square&labelColor=545554&logo=linkedin&logoColor=white&link=alexandrejustenfilho%22"/></a>
+
 
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"/></code>
@@ -31,25 +38,4 @@
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"/></code>
 
 
-
-
-
----
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-
-Formado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações web,
-utilizando tecnologias como JavaScript e Java. Tenho experiência comprovada em desenvolvimento
-mobile e inteligência artificial, com capacidade para adaptar soluções tecnológicas de alto impacto para
-diversas plataformas e contextos 
-
-
-Fique a vontade para ver meus repositorios e aproveite!!
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/AlexandreJusten">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejusten&theme=tokyonight&hide_langs_below=1" />
-</a>
-<a href="https://github.com/AlexandreJusten">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true&theme=tokyonight&line_height=27" alt="**Alexandre Justen** github stats"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=alexandrejusten&show_icons=true&theme=dark&cache_seconds=2300">
