@@ -21,8 +21,6 @@ diversas plataformas e contextos
 </p>
 
 
-  <a href="https://www.facebook.com/alexandre.j.filho" alt="Facebook"  target=”_blank”><img src="https://img.shields.io/badge/-Facebook-f8efd4?style=flat-square&labelColor=545554&logo=facebook&logoColor=white&link=alexandrejustenfilho"/></a>
-  <a href="https://twitter.com/AlexandrejF_" alt="Twitter" target=”_blank” ><img src="https://img.shields.io/badge/-Twitter-f8efd4?style=flat-square&labelColor=545554&logo=x&logoColor=white&link=alexandrejustenfilho%22"/></a>
   <a href="https://www.instagram.com/alexandre.justen" alt="Instagram"  target=”_blank”><img src="https://img.shields.io/badge/-Instagram-f8efd4?style=flat-square&labelColor=545554&logo=instagram&logoColor=white&link=alexandrejustenfilho%22"/></a>
   <a href="https://www.linkedin.com/in/alexandre-justen-filho" alt="Linkedin"  target=”_blank”><img src="https://img.shields.io/badge/-Linkedin-f8efd4?style=flat-square&labelColor=545554&logo=linkedin&logoColor=white&link=alexandrejustenfilho%22"/></a>
 
