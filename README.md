@@ -4,19 +4,20 @@
 
 <p>
 
-Trabalhando na **ISI Sistemas Embarcados**<br/>
+Pesquisa **Arquitetura Trifásica para Comunicação 
+e Integração
+ de Dados entre Sistemas DISTRIBUÍDOS**<br/>
 
 Eu sou desenvolvedor **FullStack**<br/>
 
 Idade **23 anos**<br/>
 
-Cidade **Canoinhas/SC--Petrópolis/RJ**.
+where? **on earth did you find me?**.
 
 
-Formado em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações web,
-utilizando tecnologias como JavaScript e Java. Tenho experiência comprovada em desenvolvimento
-mobile e inteligência artificial, com capacidade para adaptar soluções tecnológicas de alto impacto para
-diversas plataformas e contextos 
+pesquisador/desenvolvedor-Arquitetura Trifásica para Comunicação 
+e Integração
+ de Dados entre Sistemas DISTRIBUÍDOS
 
 </p>
 
