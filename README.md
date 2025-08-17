@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/wU5GXcDhwLDO7bcKvP/giphy.gif?cid=6c09b9528ekllss258ot0jsbul2j3ons9l8waa5p9e2auag1&rid=giphy.gif&ct=s" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWowdHdydWRxYTB0N3RycHU1dXloaXFjYjFiaGQ3d3A3ZjRxdm5jMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Alexandre Justen&color=f8efd4&style=for-the-badge&logo=GitHub">
 
